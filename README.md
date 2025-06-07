@@ -82,17 +82,3 @@ src/
 javac AS3_1.java
 java AS3_1
 ```
-
----
-
-## 👨‍💻 Authors
-
-- Cuong Ta - 7900562  
-- Het Patel - 7972424  
-- Dipesh Shah - 7882947
-
----
-
-## 📄 License
-
-Academic project under University of Manitoba’s COMP4060 course. Educational use only.
